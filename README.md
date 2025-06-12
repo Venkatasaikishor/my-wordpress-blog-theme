@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Author
   
-GitHub: https://github.com/Venkatasaikishor/my-wordpress-blog-theme.git
+GitHub: https://github.com/Venkatasaikishor/
 
 ---
 
