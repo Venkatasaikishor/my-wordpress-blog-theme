@@ -24,9 +24,8 @@
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**  
-GitHub: 
+  
+GitHub: https://github.com/Venkatasaikishor/my-wordpress-blog-theme.git
 
 ---
 
