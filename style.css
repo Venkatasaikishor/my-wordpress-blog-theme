@@ -1,0 +1,17 @@
+/*
+Theme Name: My Custom Blog Theme
+Author: Your Name
+Description: A simple custom WordPress theme built for rtCamp interview
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+h1, h2 {
+    color: #2c3e50;
+}
